@@ -1,0 +1,1 @@
+Do NOT run this book if your Networkx library is 2.0 and beyond.  This only works with Networkx1.1
